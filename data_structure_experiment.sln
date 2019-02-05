@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "data_structure_experiment", "data_structure_experiment\data_structure_experiment.vcxproj", "{D231B159-1CFA-43C6-BA25-E477D24FE232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D231B159-1CFA-43C6-BA25-E477D24FE232}.Debug|x64.ActiveCfg = Debug|x64
+		{D231B159-1CFA-43C6-BA25-E477D24FE232}.Debug|x64.Build.0 = Debug|x64
+		{D231B159-1CFA-43C6-BA25-E477D24FE232}.Debug|x86.ActiveCfg = Debug|Win32
+		{D231B159-1CFA-43C6-BA25-E477D24FE232}.Debug|x86.Build.0 = Debug|Win32
+		{D231B159-1CFA-43C6-BA25-E477D24FE232}.Release|x64.ActiveCfg = Release|x64
+		{D231B159-1CFA-43C6-BA25-E477D24FE232}.Release|x64.Build.0 = Release|x64
+		{D231B159-1CFA-43C6-BA25-E477D24FE232}.Release|x86.ActiveCfg = Release|Win32
+		{D231B159-1CFA-43C6-BA25-E477D24FE232}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20C14036-04F6-4ABA-B19C-B761866A0F48}
+	EndGlobalSection
+EndGlobal
